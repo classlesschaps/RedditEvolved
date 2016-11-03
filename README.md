@@ -16,7 +16,7 @@ Server Difficulty Setting: 5
 * No building on major spawns.
 * No building on deep sea crate spawns.
 * No building in caves.
-* No blocking cave enterances.
+* No blocking cave entrances.
 * Raiding is allowed.
 * Base wipes are not allowed.
 * No griefing.
