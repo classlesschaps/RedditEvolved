@@ -8,8 +8,8 @@ Three active admins. Admin abuse is not allowed. Admin logging is on.
 
 Server wiped ~10/28/2016
 
-No building on major spawns.
-No building in caves. 
-Raiding is allowed.
-No griefing.
-Please be respectful. Racism, sexism, or hate speech will not be tolerated.
+* No building on major spawns.
+* No building in caves. 
+* Raiding is allowed.
+* No griefing.
+* Please be respectful. Racism, sexism, or hate speech will not be tolerated.
